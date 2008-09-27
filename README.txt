@@ -1,2 +1,2 @@
 Sorry, under construction.
-Рус.тест.
+Рус.тест
