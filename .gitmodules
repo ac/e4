@@ -1,0 +1,3 @@
+[submodule "acWEB"]
+	path = acWEB
+	url = https://git.code.sf.net/p/acweb/acweb1
